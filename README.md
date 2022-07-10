@@ -1,6 +1,3 @@
-<font-size = "100">
-  HElllloooo
-</font>
 - 👋 Hi, I’m @Argunkorkmaz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
